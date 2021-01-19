@@ -1,0 +1,9 @@
+Justo después de crear el directorio.
+npm init     
+    creará el "package.json" y lo deja todo listo para importar paquetes.
+
+npm install --save yargs colors
+    para instalar los paquetes necesarios, en este caso yargs y colors
+
+creo el fichero app.js
+    
